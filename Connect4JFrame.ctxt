@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Connect4JFrame()
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ check4(java.awt.Graphics)
+comment4.params=g\ n
+comment4.target=void\ displayWinner(java.awt.Graphics,\ int)
+comment5.params=n
+comment5.target=void\ putDisk(int)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7
